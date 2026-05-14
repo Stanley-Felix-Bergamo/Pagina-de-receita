@@ -10,7 +10,7 @@
 <div style=" display: flex;">
  <ul>
    <li>Html</li>
-   <li>css</li>
+   <li>Css</li>
  </ul>
 
 <br>
