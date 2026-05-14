@@ -3,7 +3,7 @@
 <img src='' alt=" A Imagem ainda não está disponível">
 
  ##  📜 Projeto :
- <p>Projeto front-end em Html desenvolvida durante as Aulas da rocketseat</p>
+ <p>Projeto front-end em Html desenvolvida durante as aulas da Rocketseat</p>
  <br>
  
 ##  💻 Tecnologias :
